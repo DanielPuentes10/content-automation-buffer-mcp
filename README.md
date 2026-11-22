@@ -3,8 +3,6 @@
 
 **High-level documentation of the content automation pipeline for the [Trabajos de Programación](https://www.tiktok.com/@trabajosdeprogramacion) / [Instagram](https://www.instagram.com/trabajos.de.programacion/) entrepreneurship.**
 
-> Architecture, tools and real results are shown. Detailed prompts, video generation process and full orchestration logic remain private.
-
 ---
 
 ## Overview
