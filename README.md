@@ -69,19 +69,11 @@ All posts include video and are published in a coordinated way on both platforms
 
 ---
 
-## Demonstrative screenshots (sensitive data redacted)
-
-> Illustrative captures. Personal information, tokens, and sensitive data have been covered.
-
-### Agent interaction
+## Screenshots
 
 ![Agent chat](screenshots/chat-agente-redacted.jpg)
 
-### Buffer queue
-
 ![Buffer queue](screenshots/buffer-cola-programada.jpg)
-
-### Scheduled post detail
 
 ![Post detail](screenshots/buffer-post-detalle.jpg)
 
@@ -105,4 +97,4 @@ All posts include video and are published in a coordinated way on both platforms
 ---
 
 **Real automation project applied to an entrepreneurship.**  
-
+Documented at architecture and results level for portfolio purposes.
