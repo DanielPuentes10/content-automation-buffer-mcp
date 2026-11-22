@@ -71,9 +71,15 @@ All posts include video and are published in a coordinated way on both platforms
 
 ## Screenshots
 
+**Agent interaction** — Conversation with the AI agent to define and schedule content.
+
 ![Agent chat](screenshots/chat-agente-redacted.jpg)
 
+**Buffer queue** — Scheduled posts ready in the publishing queue.
+
 ![Buffer queue](screenshots/buffer-cola-programada.jpg)
+
+**Post detail** — Individual scheduled post with video, caption and platforms.
 
 ![Post detail](screenshots/buffer-post-detalle.jpg)
 
