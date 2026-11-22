@@ -3,7 +3,7 @@
 
 **High-level documentation of the content automation pipeline for the [Trabajos de Programación](https://www.tiktok.com/@trabajosdeprogramacion) / [Instagram](https://www.instagram.com/trabajos.de.programacion/) entrepreneurship.**
 
-> The full prompt flow, video generation process, and detailed orchestration remain private for business and operational reasons. This document covers the architecture, tools used, and real results only.
+> Architecture, tools and real results are shown. Detailed prompts, video generation process and full orchestration logic remain private.
 
 ---
 
@@ -69,7 +69,7 @@ All posts include video and are published in a coordinated way on both platforms
 
 ---
 
-## Screenshots
+## Demonstrative screenshots
 
 **Agent interaction** — Conversation with the AI agent to define and schedule content.
 
@@ -102,5 +102,4 @@ All posts include video and are published in a coordinated way on both platforms
 
 ---
 
-**Real automation project applied to an entrepreneurship.**  
-Documented at architecture and results level for portfolio purposes.
+**Real automation project applied to an entrepreneurship.**
