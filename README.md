@@ -105,4 +105,4 @@ All posts include video and are published in a coordinated way on both platforms
 ---
 
 **Real automation project applied to an entrepreneurship.**  
-Documented at architecture and results level for portfolio purposes.
+
